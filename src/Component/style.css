@@ -1,0 +1,10 @@
+body {
+    background-image: url("../assets/logo/White\ background\ img3.jpg");
+    /* background-image: url("../assets/logo/6765112_3412125.jpg"); */
+    /* background-image: url("../assets/logo/WhiteImg.jpg"); */
+    /* background: url(https://img.freepik.com/free-vector/white-elegant-texture-background-style_23-2148432200.jpg?w=2000); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+} 
